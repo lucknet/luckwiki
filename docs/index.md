@@ -11,15 +11,12 @@
   * [プレイヤーへの処罰について / Punishment](punish.md)
   * [サーバーにログインしたら / Getting Started](getting.md)
   * [基本的なコマンドの使い方 / How to use basic commands](basic_cmds.md)
-  * [運営への問い合わせの仕方 / Contact](contact.md)
-  * [ロビーの機能・要素紹介 / Lobby Navigation](lobby.md)
 
 ## サーバーガイド
 ### ネットワーク共通の仕様
   * [ネットワークレベルについて / Guide of Network Levels](nlv.md)
   * [ガジェット・トレジャーチェストについて / Gadgets and treasure chests](gadgets.md)
   * [フレンド機能について / Friends function](friends.md)
-  * [チャットの使い方 / How to use chat](chat.md)
   * [投票の仕方・投票ポイントについて / The way to vote and what will we get by voting](vote.md)
 
 ### バニラサーバー
