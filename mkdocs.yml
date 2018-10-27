@@ -1,3 +1,6 @@
 site_name: Luck Network Wiki
 nav:
-- Wiki トップ: 'index.md'
+- 'Wikiトップ': 'index.md'
+repo_url: https://github.com/lucknet/luckwiki
+site_description: Minecraftサーバー「Luck Network」のWikiページです。
+site_author: Luck Network
