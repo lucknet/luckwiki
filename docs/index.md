@@ -1,4 +1,7 @@
-# Welcome to Luck Network's Wiki
+# Wiki ホーム
+
+## 概要
+  ** Welcome to Luck Network's Wiki! **
 	サーバーに関する詳しい内容を掲載しています。
 	This wiki contains detailed informations about Luck Network.
 
@@ -19,7 +22,7 @@
   * [チャットの使い方 / How to use chat](chat.md)
   * [投票の仕方・投票ポイントについて / The way to vote and what will we get by voting](vote.md)
 
-### バニラサーバー ===
+### バニラサーバー
   * [遊び方・ルールについて / Rules of Vanilla Server](vanilla_rules.md)
   * [引き継ぎについて / Transporting from Survival Server](vanilla_trans.md)
   * [LWC (保護プラグイン）について / Using LWC (Security Plugin)](lwc.md)

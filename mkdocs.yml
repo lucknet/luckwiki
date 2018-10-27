@@ -1,12 +1,4 @@
 site_name: Luck Network Wiki
-nav:
-- Home: 'index.md'
-- User Guide:
-    - 'Writing your docs': 'writing-your-docs.md'
-    - 'Styling your docs': 'styling-your-docs.md'
-- About:
-    - 'License': 'license.md'
-    - 'Release Notes': 'release-notes.md'
 repo_url: https://github.com/lucknet/luckwiki
 site_description: Minecraftサーバー「Luck Network」のWikiページです。
 site_author: Luck Network
