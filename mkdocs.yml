@@ -1,1 +1,3 @@
-site_name: My Docs
+site_name: Luck Network Wiki
+nav:
+- Wiki トップ: 'index.md'
