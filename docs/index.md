@@ -1,9 +1,9 @@
 # Wiki ホーム
 
 ## 概要
-  ** Welcome to Luck Network's Wiki! **
-	サーバーに関する詳しい内容を掲載しています。
-	This wiki contains detailed informations about Luck Network.
+  ** Welcome to Luck Network's Wiki! **   
+	サーバーに関する詳しい内容を掲載しています。   
+	This wiki contains detailed informations about Luck Network.   
 
 ## はじめに
   * [サーバールール / Server Rules](rules.md)
