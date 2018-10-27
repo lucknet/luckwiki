@@ -2,6 +2,8 @@ site_name: Luck Network Wiki
 repo_url: https://github.com/lucknet/luckwiki
 site_description: Minecraftサーバー「Luck Network」のWikiページです。
 site_author: Luck Network
+lang: ['jp']
+
 theme:
     name: readthedocs
     highlightjs: true
