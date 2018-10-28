@@ -31,7 +31,7 @@ Luck Network では、以下に記載されているModが**正式に**許可さ
 ## 情報表示 MOD
   * [The 5zig Mod](https://5zig.net/downloads)
   * [bspkrsCore](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1282347-bspkrs-mods-armorstatushud-directionhud)
-  * [StatusEffectHUD]https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1282347-bspkrs-mods-armorstatushud-directionhud()
+  * [StatusEffectHUD](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1282347-bspkrs-mods-armorstatushud-directionhud)
   * [ArmorStatusHUD](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1282347-bspkrs-mods-armorstatushud-directionhud)
   * [Direction HUD](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1282347-bspkrs-mods-armorstatushud-directionhud)
   * [CPSMod](http://www.mediafire.com/file/se6mrur6gpo40m6/CPSMod+1.1.jar)
