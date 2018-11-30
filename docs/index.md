@@ -29,3 +29,6 @@
   * [Webサイト](https://lucknetwork.jp)
   * [Japan Minecraft Servers](https://minecraft.jp/servers/lucknetwork.jp)
   * [フォーラム](https://forum.lucknetwork.jp/)
+
+## ぜひ、編集にご協力ください！
+Markdown という記法を使用してWikiへ追記することができます。[こちらの GitHub リポジトリ](https://github.com/lucknet/luckwiki)へプルリクエストを送信してください。
