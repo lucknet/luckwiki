@@ -6,11 +6,15 @@
 	This wiki contains detailed informations about Luck Network.   
 
 ## はじめに
-  * [サーバールール / Server Rules](rules.md)
+  * [サーバーにログインしたら / Getting Started](getting.md)
+  * [サーバーのルール / Server Rules](rules.md)
+  * [基本的なコマンドの使い方 / How to use basic commands](basic_cmds.md)
+  * [公式Discordの使い方 / How to use Discord](discord.md)
   * [使用が許可されているMod / List of Allowed Mods](mods.md)
   * [プレイヤーへの処罰について / Punishment](punish.md)
-  * [サーバーにログインしたら / Getting Started](getting.md)
-  * [基本的なコマンドの使い方 / How to use basic commands](basic_cmds.md)
+  * [運営チームへの報告の仕方について / How to Report](report.md)
+  * [処罰の解除・異議申し立ての仕方について / How to Punishment Appeal](appeal.md)
+
 
 ## サーバーガイド
 #### ネットワーク共通の仕様
@@ -25,10 +29,10 @@
   * [LWC (保護プラグイン）について / Using LWC (Security Plugin)](lwc.md)
 
 ## リンク
-  * [Twitter (@McLuckServer)](https://twitter.com/McLuckServer)
   * [Webサイト](https://lucknetwork.jp)
+  * [Twitter (@McLuckServer)](https://twitter.com/McLuckServer)
   * [Japan Minecraft Servers](https://minecraft.jp/servers/lucknetwork.jp)
-  * [フォーラム](https://forum.lucknetwork.jp/)
+  * [公式フォーラム](https://forum.lucknetwork.jp/)
 
 ## ぜひ、編集にご協力ください！
 Markdown という記法を使用してWikiへ追記することができます。[こちらの GitHub リポジトリ](https://github.com/lucknet/luckwiki)へプルリクエストを送信してください。
