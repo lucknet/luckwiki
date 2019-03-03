@@ -13,13 +13,13 @@
   * [基本的なコマンドの使い方 / How to use basic commands](basic_cmds.md)
 
 ## サーバーガイド
-### ネットワーク共通の仕様
+#### ネットワーク共通の仕様
   * [ネットワークレベルについて / Guide of Network Levels](nlv.md)
   * [ガジェット・トレジャーチェストについて / Gadgets and treasure chests](gadgets.md)
   * [フレンド機能について / Friends function](friends.md)
   * [投票の仕方・投票ポイントについて / The way to vote and what will we get by voting](vote.md)
 
-### バニラサーバー
+#### バニラサーバー
   * [遊び方・ルールについて / Rules of Vanilla Server](vanilla_rules.md)
   * [引き継ぎについて / Transporting from Survival Server](vanilla_trans.md)
   * [LWC (保護プラグイン）について / Using LWC (Security Plugin)](lwc.md)
