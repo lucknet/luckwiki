@@ -6,3 +6,4 @@
 * [Discord](discord.md)のレポートチャンネルから報告する。 (対応速度:★★★)
 * [Twitter](https://twitter.com/MLS_Support)のDMから報告する。 (対応速度:★★☆)
 * ゲーム内のレポートコマンド（/report [報告対象のプレイヤー] [報告内容]）から報告する。  (対応速度:★★☆)
+* [フォーラム](https://forum.lucknetwork.jp/)より報告する  (対応速度:★☆☆)
