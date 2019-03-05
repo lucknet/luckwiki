@@ -1,4 +1,4 @@
-# Luck Network Wiki
+# lucknet / luckwiki
 
 Minecraftサーバー「Luck Network」のWikiページです。  
 Official wiki page of Minecraft Multiplay Server "Luck Network".  
