@@ -13,15 +13,13 @@
   * [運営チームへの報告の仕方 / How to Report](report.md)
   * [公式Discordの使い方 / How to use Discord](discord.md)
   * [JMSの投票とボーナスの受け取り方 / How to get vote bonus](vote.md)
+  * [サーバーへの寄付について / About donation to server](donate.md)
 
 
 
 ## 処罰について
   * [プレイヤーへの処罰について / Punishment](punish.md)
   * [処罰の解除・異議申し立ての仕方について / How to Punishment Appeal](appeal.md)  
-
-  <br>
-
 
 ## サーバーガイド
 #### ネットワーク共通の仕様
@@ -45,6 +43,7 @@
   * [Webサイト](https://lucknetwork.jp)
   * [Webストア](https://lucknetwork.buycraft.net/)
   * [Twitter (@McLuckServer)](https://twitter.com/McLuckServer)
+  * [Discord](discord.md)
   * [Japan Minecraft Servers](https://minecraft.jp/servers/lucknetwork.jp)
   * [公式フォーラム](https://forum.lucknetwork.jp/)
   * [ランキングページ](https://rankings.lucknetwork.jp/level)
