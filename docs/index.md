@@ -1,7 +1,7 @@
 # Wiki ホーム
 
 ## 概要
-  ** Welcome to Luck Network's Wiki! **   
+  ** Luck Network 公式Wikiへようこそ！ / Welcome to Luck Network's Wiki! **   
 	サーバーに関する詳しい内容を掲載しています。   
 	This wiki contains detailed informations about Luck Network.   
 
@@ -12,6 +12,7 @@
   * [基本的なコマンドの使い方 / How to use basic commands](basic_cmds.md)
   * [運営チームへの報告の仕方 / How to Report](report.md)
   * [公式Discordの使い方 / How to use Discord](discord.md)
+  * [JMSの投票とボーナスの受け取り方 / How to get vote bonus](vote.md)
 
 
 
@@ -21,25 +22,32 @@
 
   <br>
 
-  
+
 ## サーバーガイド
 #### ネットワーク共通の仕様
-  * [投票の仕方・投票ポイントについて / The way to vote and what will we get by voting](vote.md)
   * [ネットワークレベルについて / Guide of Network Levels](nlv.md)
   * [ガジェット・トレジャーチェストについて / Gadgets and treasure chests](gadgets.md)
   * [フレンド機能について / Friends function](friends.md)
 
-#### バニラサーバー
+#### バニラ サーバー
   * [遊び方・ルールについて / Rules of Vanilla Server](vanilla_rules.md)
   * [引き継ぎについて / Transporting from Survival Server](vanilla_trans.md)
   * [保護システムの使い方 / How to use Protection System](lwc.md)
-  * [新たな進捗の紹介 / Introduction of New Advancements](vanilla_advancements.md)
+  * [新たな進捗の紹介 / Introduction of New Advancements](vanilla_advancements.md)  
+
+#### ArenaPvP サーバー
+  * ※編集中
+
+#### FFAPvP サーバー
+  * ※編集中
 
 ## リンク
   * [Webサイト](https://lucknetwork.jp)
+  * [Webストア](https://lucknetwork.buycraft.net/)
   * [Twitter (@McLuckServer)](https://twitter.com/McLuckServer)
   * [Japan Minecraft Servers](https://minecraft.jp/servers/lucknetwork.jp)
   * [公式フォーラム](https://forum.lucknetwork.jp/)
+  * [ランキングページ](https://rankings.lucknetwork.jp/level)
 
 ## ぜひ、編集にご協力ください！
 Markdown という記法を使用してWikiへ追記することができます。[こちらの GitHub リポジトリ](https://github.com/lucknet/luckwiki)へプルリクエストを送信してください。
