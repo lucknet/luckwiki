@@ -6,11 +6,11 @@
 	This wiki contains detailed informations about Luck Network.   
 
 ## 基本事項
-  * [はじめに / In the beginning](introduction.md)
+  * [はじめに / In the beginning](in_the_beginnings.md)
   * [サーバーのルール / Server Rules](rules.md)
   * [使用が許可されているMod / List of Allowed Mods](mods.md)
   * [基本的なコマンドの使い方 / How to use basic commands](basic_cmds.md)
-  * [運営チームへの報告の仕方 / How to Report](report.md)
+  * [運営スタッフへの連絡の仕方 / How to contact Server Staff](report.md)
   * [公式Discordの使い方 / How to use Discord](discord.md)
   * [JMSの投票とボーナスの受け取り方 / How to get vote bonus](vote.md)
   * [サーバーへの寄付について / About donation to server](donate.md)
