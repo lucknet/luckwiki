@@ -6,7 +6,7 @@
 	This wiki contains detailed informations about Luck Network.   
 
 ## 基本事項
-  * [はじめに / In the beginning](in_the_beginnings.md)
+  * [はじめに / In the beginning](in_the_beginning.md)
   * [サーバーのルール / Server Rules](rules.md)
   * [使用が許可されているMod / List of Allowed Mods](mods.md)
   * [基本的なコマンドの使い方 / How to use basic commands](basic_cmds.md)
