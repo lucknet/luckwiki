@@ -19,7 +19,7 @@
 
 ## 処罰について
   * [プレイヤーへの処罰について / Punishment](punish.md)
-  * [処罰の解除・異議申し立ての仕方について / How to Punishment Appeal](appeal.md)  
+  * [処罰の解除・異議申し立ての仕方について / Hsow to Punishment Appeal](appeal.md)  
 
 ## サーバーガイド
 #### ネットワーク共通の仕様
@@ -38,6 +38,11 @@
 
 #### FFAPvP サーバー
   * ※編集中
+
+
+<br>
+
+
 
 ## リンク
   * [Webサイト](https://lucknetwork.jp)
