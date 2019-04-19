@@ -13,13 +13,8 @@
   * [運営スタッフへの連絡の仕方 / How to contact Server Staff](report.md)
   * [公式Discordの使い方 / How to use Discord](discord.md)
   * [JMSの投票とボーナスの受け取り方 / How to get vote bonus](vote.md)
-  * [サーバーへの寄付について / About donation to server](donate.md)
-
-
-
-## 処罰について
+  * [サーバーへの寄付について / Donation to server](donate.md)
   * [プレイヤーへの処罰について / Punishment](punish.md)
-  * [処罰の解除・異議申し立ての仕方について / Hsow to Punishment Appeal](appeal.md)  
 
 ## サーバーガイド
 #### ネットワーク共通の仕様
