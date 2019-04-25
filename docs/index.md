@@ -19,7 +19,6 @@
 <br>
 
 ## サーバーガイド
-<br>
 #### ネットワーク共通の仕様
   * [既知の不具合について / Known Issues](known_issues.md)
   * [ネットワークレベルについて / Guide of Network Levels](nlv.md)
