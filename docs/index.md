@@ -8,13 +8,13 @@
 ## 基本事項
   * [はじめに / In the beginning](in_the_beginning.md)
   * [サーバーのルール / Server Rules](rules.md)
-  * [使用が許可されているMod / List of Allowed Mods](mods.md)
-  * [基本的なコマンドの使い方 / How to use basic commands](basic_cmds.md)
   * [運営スタッフへの連絡の仕方 / How to contact Server Staff](report.md)
   * [公式Discordの使い方 / How to use Discord](discord.md)
-  * [JMSの投票とボーナスの受け取り方 / How to get vote bonus](vote.md)
   * [サーバーへの寄付について / Donation to server](donate.md)
   * [プレイヤーへの処罰について / Punishment](punish.md)
+  * [基本的なコマンドの使い方 / How to use basic commands](basic_cmds.md)
+  * [使用が許可されているMod / List of Allowed Mods](mods.md)
+  * [JMSの投票とボーナスの受け取り方 / How to get vote bonus](vote.md)
 
 <br>
 
