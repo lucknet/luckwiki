@@ -24,7 +24,6 @@
   * [ネットワークレベルについて / Guide of Network Levels](nlv.md)
   * [ガジェット・トレジャーチェストについて / Gadgets and treasure chests](gadgets.md)
   * [フレンド機能について / Friends function](friends.md)
-  * [既知の不具合について / Known Issues](known_issues.md)
 
 #### バニラ サーバー
   * [遊び方・ルールについて / Rules of Vanilla Server](vanilla_rules.md)
