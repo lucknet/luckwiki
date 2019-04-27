@@ -10,7 +10,7 @@ theme:
 plugins:
   - search
   - git-revision-date
-  - git-committers
-      repository: lucknet/wiki
+  - git-committers:
+      repository: johndoe/my-docs
       branch: master
       token: !!python/object/apply:os.getenv ["MKDOCS_GIT_COMMITTERS_APIKEY"]
