@@ -92,13 +92,7 @@
   </ol>
 </nav>
 {{ page.content }}
-<ul class="metadata page-metadata" data-bi-name="page info" lang="en-us" dir="ltr">
-  <li class="last-updated-holder displayDate loading">
-    <span class="last-updated-text">最終更新: </span>
-    <time role="presentation" datetime="2018-10-25T00:00:00.000Z" data-article-date-source="ms.date">{% if last_commit %}{{ last_commit.commit.committer.dat\
-e.strftime('%Y-%m-%d') }}{% endif %}</time>
-  </li>
-</ul>
+<p>最終更新: {{ git_revision_date }}</p>
 </div>
 <footer class="footer">
 	<address>

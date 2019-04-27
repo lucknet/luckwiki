@@ -1,3 +1,2 @@
 mkdocs
 mkdocs-git-revision-date-plugin
-mkdocs-git-committers-plugin
