@@ -92,7 +92,11 @@
   </ol>
 </nav>
 {{ page.content }}
-<p>最終更新: {{ git_revision_date }}</p>
+	{% if page.meta.revision_date %}
+	<p>
+	<small><br><i>最終更新: {{ page.meta.revision_date }}</i></small>
+</p>
+	{% endif %}
 </div>
 <footer class="footer">
 	<address>
