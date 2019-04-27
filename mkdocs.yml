@@ -10,4 +10,4 @@ theme:
 plugins:
   - search
   - git-revision-date
-  - minify-plugin
+  - git-committers
