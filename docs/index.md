@@ -50,6 +50,7 @@
   * [Japan Minecraft Servers](https://minecraft.jp/servers/lucknetwork.jp)
   * [公式フォーラム](https://forum.lucknetwork.jp/)
   * [ランキングページ](https://rankings.lucknetwork.jp/level)
+  * [Special Thanks](special_thanks.md)
 
 ## ぜひ、編集にご協力ください！
 Markdown という記法を使用してWikiへ追記することができます。[こちらの GitHub リポジトリ](https://github.com/lucknet/luckwiki)へプルリクエストを送信してください。
