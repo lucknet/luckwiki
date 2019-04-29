@@ -28,3 +28,19 @@
 * [Tebex - Payment Plugin for Minecraft (formerly Buycraft)](https://www.tebex.io/)
 * [Buycraft - SpigotMC](https://www.spigotmc.org/resources/buycraft.336/)
 
+## [Crafatar](https://crafatar.com/)
+* [Crafatar - A blazing fast API for Minecraft faces!](https://github.com/crafatar/crafatar)
+
+## [Google Fonts](https://fonts.google.com)
+* [Google Fonts + Japanese • Google Fonts + 日本語](https://googlefonts.github.io/japanese/)
+* [Early Access - Google Fonts](https://fonts.google.com/earlyaccess)
+
+## [Ubuntu](https://www.ubuntu.com/)
+* [Ubuntu: The leading operating system for PCs, IoT devices, servers](https://www.ubuntu.com/)
+
+## [PHP (version 7)](https://www.php.net/)
+* [PHP: Hypertext Preprocessor](https://www.php.net/docs.php)
+
+## [Flarum](https://flarum.org/)
+* [Flarum – Forums Made Simple](https://github.com/flarum/flarum)
+
