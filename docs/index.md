@@ -28,7 +28,8 @@
 #### バニラ サーバー
   * [遊び方・ルールについて / Rules of Vanilla Server](vanilla_rules.md)
   * [引き継ぎについて / Transporting from Survival Server](vanilla_trans.md)
-  * [保護システムの使い方 / How to use Protection System](lwc.md)
+  * [建築物の保護について / Protection of Building](build_protection.md)
+  * [LWCの使い方について / How to use LWC](lwc.md)
   * [新たな進捗の紹介 / Introduction of New Advancements](vanilla_advancements.md)  
 
 #### ArenaPvP サーバー
