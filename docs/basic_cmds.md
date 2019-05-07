@@ -1,4 +1,4 @@
-# 基本的なコマンドの使い方 / How to use basic commands
+# コマンドの使い方 基礎編 / How to use basic commands
 
 <br>
 <br>
