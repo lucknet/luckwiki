@@ -12,6 +12,7 @@
   * [プレイヤーへの処罰について / Punishment](punish.md)
   * [運営スタッフへの連絡の仕方 / How to contact Server Staff](report.md)
   * [公式Discordの使い方 / Official Discord](discord.md)
+  * [よくある質問 / FAQ](faq.md)
 
 ## 基本事項
   * [コマンドの使い方 基礎編 / How to use basic commands](basic_cmds.md)
@@ -33,7 +34,7 @@
   * [遊び方・ルールについて / Rules of Vanilla Server](vanilla_rules.md)
   * [引き継ぎについて / Transporting from Survival Server](vanilla_trans.md)
   * [建築物の保護について / Protection of Building](build_protection.md)
-  * [LWCの使い方について / How to use LWC](lwc.md) 
+  * [LWCの使い方について / How to use LWC](lwc.md)
 
 #### ArenaPvP サーバー
   * ※編集中
