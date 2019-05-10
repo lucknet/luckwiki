@@ -27,11 +27,10 @@
 <img src="https://i.gyazo.com/6d72f71dc85864c41fc86307fe8b60c7.png" width="500px">
 
 申請の仕方の例：  
-```
-Minecraft内の名前：dedetyan
+
+> Minecraft内の名前：dedetyan  
 ワールド：Normal  
-座標： X:63 Y:3 Z:-250 から X:47 Y:3 Z:-236
-```
+座標： X:63 Y:3 Z:-250 ～ X:47 Y:3 Z:-236
 
 ### 保護の設定について
 #### フラグを変更する
