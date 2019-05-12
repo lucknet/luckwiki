@@ -12,6 +12,7 @@
   * [プレイヤーへの処罰について / Punishment](punish.md)
   * [運営スタッフへの連絡の仕方 / How to contact Server Staff](report.md)
   * [公式Discordの使い方 / Official Discord](discord.md)
+  * [用語集 / Glossary](glossary.md)
   * [よくある質問 / FAQ](faq.md)
 
 ## 基本事項
