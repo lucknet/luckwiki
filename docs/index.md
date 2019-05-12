@@ -18,6 +18,7 @@
 ## 基本事項
   * [コマンドの使い方 基礎編 / How to use basic commands](basic_cmds.md)
   * [ランクシステムについて / Rank System](rank.md)
+  * [アップデート履歴 / Update history](update_history.md)
   * [JMSの投票と報酬の受け取り方 / How to get vote rewards](vote.md)
   * [サーバーへの寄付について / Donation to server](donate.md)
 
