@@ -1,9 +1,8 @@
 # Wiki ホーム
 
 ## 概要
-  ** Luck Network 公式Wikiへようこそ！ / Welcome to Luck Network's Wiki! **   
+  ** Luck Network 公式Wikiへようこそ！**   
 	サーバーに関する詳しい内容を掲載しています。   
-	This wiki contains detailed informations about Luck Network.   
 
 ## はじめに
   * [はじめに / In the beginning](in_the_beginning.md)
@@ -22,7 +21,6 @@
   * [JMSの投票と報酬の受け取り方 / How to get vote rewards](vote.md)
   * [サーバーへの寄付について / Donation to server](donate.md)
 
-<br>
 
 ## サーバーガイド
 #### ネットワーク共通の仕様
@@ -44,11 +42,6 @@
 #### FFAPvP サーバー
   * ※編集中
 
-
-<br>
-
-
-
 ## リンク
   * [Webサイト](https://lucknetwork.jp)
   * [Webストア](https://lucknetwork.buycraft.net/)
@@ -59,5 +52,7 @@
   * [Japan Minecraft Servers](https://minecraft.jp/servers/lucknetwork.jp)
   * [Special Thanks](special_thanks.md)
 
+## 管理者向け
+  * [管理者向け: メモ / リンク](admin.md)
 ## ぜひ、編集にご協力ください！
 Markdown という記法を使用してWikiへ追記することができます。[こちらの GitHub リポジトリ](https://github.com/lucknet/luckwiki)へプルリクエストを送信してください。
