@@ -10,3 +10,4 @@ theme:
 plugins:
   - search
   - git-revision-date
+  - bootstrap-tables
