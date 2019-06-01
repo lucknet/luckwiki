@@ -25,7 +25,7 @@
 ## サーバーガイド
 #### ネットワーク共通の仕様
   * [サーバーチャットについて / Server Chat](chat.md)
-  * [ネットワークレベルについて / Guide of Network Levels](nlv.md)
+  * [ネットワークレベルについて / Network Levels](nlv.md)
   * [ガジェット・トレジャーチェストについて / Gadgets and treasure chests](gadgets.md)
   * [フレンド機能について / Friends function](friends.md)
   * [既知の不具合について / Known Issues](known_issues.md)
@@ -41,6 +41,10 @@
 
 #### FFAPvP サーバー
   * ※編集中
+
+## その他
+  * スタッフの募集について
+  
 
 ## リンク
   * [Webサイト](https://lucknetwork.jp)
