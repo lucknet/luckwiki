@@ -7,7 +7,7 @@ jobs:
   build:
     docker:
       - image: circleci/python:3.6-stretch
-    working_directory: ~/repo
+    working_directory: ~/wiki
     steps:
       - checkout
       - run: pip install mkdocs --user
@@ -26,7 +26,7 @@ jobs:
           name: 'Install Dependecies'
           command: npm install --save-dev firebase-tools
       - attach_workspace:
-          at: .
+          at: ~/wiki
       - run:
           name: 'Deploy to Hosting'
           command: node_modules/.bin/firebase deploy --only hosting --project "$FIREBASE_PROJECT_ID" --token "$FIREBASE_TOKEN"
