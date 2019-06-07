@@ -15,9 +15,9 @@ jobs:
       - run: pip install mkdocs-bootstrap-tables-plugin --user
       - run: python -m mkdocs build -d public
       - persist_to_workspace:
-        root: ~/wiki
-        paths:
-          - public
+          root: ~/wiki
+          paths: 
+            - public/*
   deploy:
     docker:
       - image: circleci/node:8
