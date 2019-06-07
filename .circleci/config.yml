@@ -7,7 +7,7 @@ jobs:
   build:
     docker:
       - image: circleci/python:3.6-stretch
-    working_directory: ~/wiki
+    working_directory: /tmp/wiki
     steps:
       - checkout
       - run: pip install mkdocs --user
@@ -15,7 +15,7 @@ jobs:
       - run: pip install mkdocs-bootstrap-tables-plugin --user
       - run: python -m mkdocs build -d public
       - persist_to_workspace:
-          root: ~/wiki
+          root: /tmp/wiki
           paths: 
             - public/*
   deploy:
@@ -29,7 +29,7 @@ jobs:
           name: 'Install Dependecies'
           command: npm install --save-dev firebase-tools
       - attach_workspace:
-          at: ~/wiki
+          at: /tmp/wiki
       - run:
           name: 'Deploy to Hosting'
           command: node_modules/.bin/firebase deploy --only hosting --project "$FIREBASE_PROJECT_ID" --token "$FIREBASE_TOKEN"
