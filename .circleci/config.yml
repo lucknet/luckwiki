@@ -33,12 +33,9 @@ jobs:
 
 workflows:
   version: 2
-  deploy_master:
+  build-and-deploy:
     jobs:
-      - output
-      - firebase:
-        requires:
-          - output
-        filters:
-            branches:
-              only: master
+      - build
+      - deploy:
+          requires:
+            - build
