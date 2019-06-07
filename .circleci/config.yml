@@ -4,7 +4,7 @@
 #
 version: 2
 jobs:
-  mkdocs:
+  output:
     docker:
       - image: circleci/python:3.6-stretch
     working_directory: ~/repo
@@ -14,20 +14,17 @@ jobs:
       - run: pip install mkdocs-git-revision-date-plugin --user
       - run: pip install mkdocs-bootstrap-tables-plugin --user
       - run: mkdocs build
-  build:
+
+  firebase:
     docker:
       - image: circleci/node:8
-    
     working_directory: ~/repo
-
     steps:
       - checkout
       - run: npm install
-
       - run:
           name: 'Install Dependecies'
           command: npm install --save-dev firebase-tools
-
       - attach_workspace:
           at: .
       - run:
@@ -36,9 +33,12 @@ jobs:
 
 workflows:
   version: 2
-  deploy:
+  deploy_master:
     jobs:
-      - mkdocs
-      - build:
+      - output
+      - firebase:
         requires:
-          - mkdocs
+          - output
+        filters:
+            branches:
+              only: master
