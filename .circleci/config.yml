@@ -33,6 +33,7 @@ jobs:
       - run:
           name: 'Deploy to Hosting'
           command: node_modules/.bin/firebase deploy --only hosting --project "$FIREBASE_PROJECT_ID" --token "$FIREBASE_TOKEN"
+
 workflows:
   version: 2
   build_all:
