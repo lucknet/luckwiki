@@ -13,7 +13,7 @@ jobs:
       - run: pip install mkdocs --user
       - run: pip install mkdocs-git-revision-date-plugin --user
       - run: pip install mkdocs-bootstrap-tables-plugin --user
-      - run: mkdocs build
+      - run: python -m mkdocs build -d public
 
   deploy:
     docker:
