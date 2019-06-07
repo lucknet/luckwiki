@@ -9,9 +9,10 @@ jobs:
       - image: circleci/python:3.6-stretch
     working_directory: ~/repo
     steps:
-      - run: pip install mkdocs
-      - run: pip install mkdocs-git-revision-date-plugin
-      - run: pip install mkdocs-bootstrap-tables-plugin
+      - checkout
+      - run: pip install mkdocs --user
+      - run: pip install mkdocs-git-revision-date-plugin --user
+      - run: pip install mkdocs-bootstrap-tables-plugin --user
       - run: mkdocs build
   build:
     docker:
@@ -21,9 +22,6 @@ jobs:
 
     steps:
       - checkout
-      - run: pip install mkdocs --user
-      - run: pip install mkdocs-git-revision-date-plugin --user
-      - run: pip install mkdocs-bootstrap-tables-plugin --user
       - run: npm install
 
       - run:
@@ -40,4 +38,6 @@ workflows:
   build_all:
     jobs:
       - mkdocs
-      - build
+      - build:
+        requires:
+          - mkdocs
