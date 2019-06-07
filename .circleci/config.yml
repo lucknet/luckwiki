@@ -1,0 +1,29 @@
+# Javascript Node CircleCI 2.0 configuration file
+#
+# Check https://circleci.com/docs/2.0/language-javascript/ for more details
+#
+version: 2
+jobs:
+  build:
+    docker:
+      - image: circleci/node:8
+      - image: circleci/python:latest
+    working_directory: ~/repo
+
+    steps:
+      - checkout
+      - run: pip install mkdocs
+      - run: pip install mkdocs-git-revision-date-plugin
+      - run: pip install mkdocs-bootstrap-tables-plugin
+      - run: npm install
+
+      - run:
+          name: 'Install Dependecies'
+          command: npm install --save-dev firebase-tools
+
+      - attach_workspace:
+          at: .
+      - run: mkdocs serve
+      - run:
+          name: 'Deploy to Hosting'
+          command: node_modules/.bin/firebase deploy --only hosting --project "$FIREBASE_PROJECT_ID" --token "$FIREBASE_TOKEN"
