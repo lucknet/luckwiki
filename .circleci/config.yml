@@ -4,7 +4,7 @@
 #
 version: 2
 jobs:
-  output:
+  build:
     docker:
       - image: circleci/python:3.6-stretch
     working_directory: ~/repo
@@ -15,7 +15,7 @@ jobs:
       - run: pip install mkdocs-bootstrap-tables-plugin --user
       - run: mkdocs build
 
-  firebase:
+  deploy:
     docker:
       - image: circleci/node:8
     working_directory: ~/repo
