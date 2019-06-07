@@ -21,7 +21,7 @@ jobs:
   deploy:
     docker:
       - image: circleci/node:8
-    working_directory: ~/repo
+    working_directory: /tmp/wiki
     steps:
       - checkout
       - run: npm install
