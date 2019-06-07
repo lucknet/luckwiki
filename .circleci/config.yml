@@ -21,9 +21,9 @@ jobs:
 
     steps:
       - checkout
-      - run: pip install mkdocs
-      - run: pip install mkdocs-git-revision-date-plugin
-      - run: pip install mkdocs-bootstrap-tables-plugin
+      - run: pip install mkdocs --user
+      - run: pip install mkdocs-git-revision-date-plugin --user
+      - run: pip install mkdocs-bootstrap-tables-plugin --user
       - run: npm install
 
       - run:
