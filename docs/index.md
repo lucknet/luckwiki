@@ -31,7 +31,7 @@
   * [既知の不具合について / Known Issues](known_issues.md)
 
 #### バニラ サーバー
-  * [遊び方・ルールについて / Rules of Vanilla Server](vanilla_rules.md)
+  * [遊び方・ルールについて / Rules of Vanilla Server](vanilla_rules_v1.14.md)
   * [引き継ぎについて / Transporting from Survival Server](vanilla_trans.md)
   * [建築物の保護について / Protection of Building](build_protection.md)
   * [LWCの使い方について / How to use LWC](lwc.md)
@@ -44,7 +44,7 @@
 
 ## その他
   * スタッフの募集について
-  
+
 
 ## リンク
   * [Webサイト](https://lucknetwork.jp)
