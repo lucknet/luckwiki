@@ -6,7 +6,7 @@ Minecraft1.14以降、Village and Pillage（村と略奪）と呼ばれる要素
 新ブロック・新武器・新ポーション・新アイテム・新エンチャント・新モブ・新ダンジョン、その他多くの新仕様が追加されました。  
 ここでは紹介しきれないほどの追加要素があるため、わかりやすくまとめられてる[こちら](https://minecraft-diary.jp/blog-entry-1414.html)のサイトでアップデート情報を確認してみると良いでしょう！
 
-![Village and Pillage](https://i.imgur.com/AAwyr94.jpg)
+![Village and Pillage](https://cdn.discordapp.com/attachments/375704998002294784/587048333005160473/2019-06-09_07.39.03.png)
 
 ## 遊び方
 当バニラサーバーはほぼバニラの鯖なので、経済やレベルといった概念は存在しません。それ故に<u>素のマインクラフトを自由に楽しむことができます。</u>  
